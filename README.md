@@ -4,7 +4,7 @@ Data Analytics & AI Automation Portfolio
 
 ## Live Site
 
-[https://your-username.github.io/portfolio/](https://your-username.github.io/portfolio/)
+[https://your-username.github.io/portfolio/](https://your-username.github.io/Portfolio/)
 
 ## Tech
 
